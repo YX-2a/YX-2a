@@ -1,7 +1,8 @@
-## YX-2a :
+## [YX-2a :](https://github.com/YX-2a)
+![Spinning Logo !](./source/logo_spin.gif)
 Just a dude doing dude things.
 
-## Repositories :
+## [Repositories :](https://github.com/YX-2a?tab=repositories)
 ### Finished Work :
 [Animal Say](https://github.com/YX-2a/Animal-Say) : A Cowsay-like Program Made In Python.
 
