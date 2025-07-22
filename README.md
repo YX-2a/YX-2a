@@ -2,6 +2,8 @@
 ![Spinning Logo !](./source/logo_spin.gif)
 Just a dude doing dude things.
 
+here is my [itch.io account](https://yuxu-42.itch.io/).
+
 ## [Repositories :](https://github.com/YX-2a?tab=repositories)
 ### Finished Work :
 [Animal Say](https://github.com/YX-2a/Animal-Say) : A Cowsay-like Program Made In Python.
