@@ -13,4 +13,4 @@ here is my [itch.io account](https://yuxu-42.itch.io/).
 ### Work In Progress :
 [File Formats JSON](https://github.com/YX-2a/File-Formats-JSON) : One JSON File Containing Most File Formats That I Can Add.
 
-[Fallers](https://github.com/YX-2a/Fallers) : Prototype Made in PySide6.
+[Sweet Catch !](https://github.com/YX-2a/Sweet_Catch) : A Game About Catching Fruits and Just Getting To High Score, Made in PySide6.
